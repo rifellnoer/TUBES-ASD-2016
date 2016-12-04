@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1480854554 source:d:\tubesasdapoteker\datamotor\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"motor.h"
+
+1480681301 d:\tubesasdapoteker\datamotor\motor.h
+	<iostream>
+
+1480681610 source:d:\tubesasdapoteker\datamotor\motor.cpp
+	"motor.h"
+	<iostream>
+	<string>
+
